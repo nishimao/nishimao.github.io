@@ -3,11 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "9JA89QQLNQ.com.apple.wwdc",
-                "paths": [ "/wwdc/news/", "/videos/wwdc/2015/*" ]
-            },
-            {
-                "appID": "TeamID.BundleID2",
+                "appID": "6S68ER3YU8.jp.co.yahoo.YAuction.manishi",
                 "paths": [ "*" ]
             }
         ]
