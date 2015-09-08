@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "9T6JQ4PQ3Z.jp.co.yahoo.YAuction.khaneda",
-                "paths": [ "/" ]
+                "paths": [ "*" ]
             }
         ]
     }
