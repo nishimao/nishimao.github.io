@@ -5,10 +5,6 @@
             {
                 "appID": "9T6JQ4PQ3Z.jp.co.yahoo.YAuction.khaneda",
                 "paths": [ "/" ]
-            },
-            {
-                "appID": "TeamID.BundleID2",
-                "paths": [ "*" ]
             }
         ]
     }
